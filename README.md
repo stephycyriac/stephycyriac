@@ -25,8 +25,8 @@ I'm currently pursuing B.Tech in Robotics and Automation at Saintgits College of
 
 <h3 align="left">Connect with me 🌎:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stephy-cyriac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephy-cyriac" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/17213170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/17213170" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stephy-cyriac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephy-cyriac" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/edit/17213170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/edit/17213170" height="30" width="40" /></a>
 <a href="https://instagram.com/stephy_cyriac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stephy_cyriac" height="30" width="40" /></a>
 </p>
 
