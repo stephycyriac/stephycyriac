@@ -8,7 +8,7 @@ I'm currently pursuing B.Tech in Robotics and Automation at Saintgits College of
 
 <h3>💻 Technology Stack:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   
   <!-- html -->
