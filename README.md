@@ -1,6 +1,6 @@
 ### Hi , I'm Stephy Cyriac 👋👩‍💻 
 
-<img src="https://user-images.githubusercontent.com/85439296/159426265-c409bc3a-7996-462f-965c-8eb7fa38ebde.png" alt="banner that says Stephy Cyriac - Web Developer" width="full" height="full">
+<img src="https://user-images.githubusercontent.com/85439296/159426265-c409bc3a-7996-462f-965c-8eb7fa38ebde.png" alt="banner that says Stephy Cyriac - Web Developer">
 
 <!--
 **stephycyriac/stephycyriac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
