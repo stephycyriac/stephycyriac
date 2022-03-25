@@ -1,7 +1,7 @@
 <h1> Hi , I'm Stephy Cyriac 👋👩‍💻 </h1>
 
 
-<img src="https://user-images.githubusercontent.com/85439296/159426265-c409bc3a-7996-462f-965c-8eb7fa38ebde.png" alt="banner that says Stephy Cyriac - Web Developer">
+<img src="https://user-images.githubusercontent.com/85439296/160104064-1c7c0a76-bd5d-417f-9856-7043a3d80cc5.jpg" alt="banner that says Stephy Cyriac - Web Developer">
 
 I'm currently pursuing B.Tech in Robotics and Automation at Saintgits College of Engineering,Pathamuttom.I like to design things through coding that's why I fell in love with web development.
 
